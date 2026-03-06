@@ -60,6 +60,12 @@ Busco minha **primeira oportunidade na área de tecnologia** para aplicar meus c
 
 ---
 
+## 🐍 Contribuições
+
+![snake gif](https://github.com/julioholanda/julioholanda/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 # 🔥 Sequência de contribuições
 
 <p align="center">
