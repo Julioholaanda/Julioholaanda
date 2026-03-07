@@ -103,6 +103,6 @@ https://julioholanda.github.io
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=julioholanda&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=julioholaanda&color=blue"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:3a6073&height=120&section=footer"/>
