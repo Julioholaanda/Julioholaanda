@@ -52,10 +52,9 @@ Busco minha **primeira oportunidade na área de tecnologia** para aplicar meus c
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=julioholaanda&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=julioholaanda&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioholaanda&layout=compact&theme=tokyonight"/>
-
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=julioholaanda&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
