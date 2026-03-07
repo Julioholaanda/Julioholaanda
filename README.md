@@ -48,18 +48,6 @@ Busco minha **primeira oportunidade na área de tecnologia** para aplicar meus c
 
 ---
 
-# 📊 Estatísticas
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats-julioholaanda.vercel.app/api?username=julioholaanda&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats-julioholaanda.vercel.app/api/top-langs/?username=julioholaanda&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🐍 Contribuições
 
 ![snake gif](https://raw.githubusercontent.com/julioholaanda/julioholaanda/output/github-contribution-grid-snake.svg)
@@ -86,11 +74,11 @@ https://julioholanda.github.io
 
 <p>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/julio-holaanda?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCkbNcPAQSNC7SEjsNhX%2FBA%3D%3D">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:julioholandadasilva@gmail.com">
+<a href="mailto:julioholandadasilva@email.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
