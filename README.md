@@ -62,8 +62,7 @@ Busco minha **primeira oportunidade na área de tecnologia** para aplicar meus c
 
 ## 🐍 Contribuições
 
-![snake gif](https://github.com/julioholaanda/julioholaanda/raw/main/github-contribution-grid-snake.svg)
-
+![snake gif](https://raw.githubusercontent.com/julioholaanda/julioholaanda/output/github-contribution-grid-snake.svg)
 ---
 
 # 🔥 Sequência de contribuições
@@ -91,7 +90,7 @@ https://julioholanda.github.io
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:seuemail">
+<a href="mailto:julioholandadasilva@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
