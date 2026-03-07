@@ -52,9 +52,9 @@ Busco minha **primeira oportunidade na área de tecnologia** para aplicar meus c
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=julioholanda&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=julioholaanda&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioholanda&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioholaanda&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -62,14 +62,14 @@ Busco minha **primeira oportunidade na área de tecnologia** para aplicar meus c
 
 ## 🐍 Contribuições
 
-![snake gif](https://github.com/julioholanda/julioholanda/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/julioholaanda/julioholaanda/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 # 🔥 Sequência de contribuições
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=julioholanda&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=julioholaanda&theme=tokyonight"/>
 </p>
 
 ---
