@@ -14,17 +14,20 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Create dist folder
+        run: mkdir -p dist
 
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: julioholaanda
           outputs: |
-            d dist/github-contribution-grid-snake.svg?color_snake=#1f6feb&color_dots=#ebedf0,#c6dbff,#6fa8ff,#2f6feb,#1a4fb4
+            dist/github-contribution-grid-snake.svg?color_snake=#1f6feb&color_dots=#ebedf0,#c6dbff,#6fa8ff,#2f6feb,#1a4fb4
 
       - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
