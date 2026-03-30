@@ -50,7 +50,7 @@ Busco minha **primeira oportunidade na área de tecnologia** para aplicar meus c
 
 ## 🐍 Contribuições
 
-![snake gif](https://github.com/julioholaanda/julioholaanda/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/julioholaanda/julioholaanda/output/github-contribution-grid-snake.svg)
 
 ---
 
